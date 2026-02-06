@@ -1,5 +1,3 @@
-# customer-churn-prediction
-End-to-end customer churn prediction using machine learning
 # Customer Churn Prediction using Machine Learning
 
 ## Overview
